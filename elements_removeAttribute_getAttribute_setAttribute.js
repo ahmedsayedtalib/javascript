@@ -32,3 +32,9 @@ if(myDiv.hasAttribute("data-src")=== false) {
 
 console.log(myDiv.attributes);
 console.log(myDiv.hasAttributes());
+
+
+if(myP.getAttribute("data-src")!=="") {
+    myP.setAttribute("data-src","AhmedSayed");
+}
+console.log(myP.getAttribute("data-src"));
