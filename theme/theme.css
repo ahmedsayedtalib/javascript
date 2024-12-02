@@ -1,0 +1,44 @@
+div#colors {
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    display:inline-flex;
+}
+
+div#green {
+    
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    display: inline-block;
+   
+}
+
+div#blue {
+    width: 200px;
+    height: 200px;
+    background-color: blue; 
+    display: inline-block;
+ 
+}
+
+div#red {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: inline-block;
+}
+
+div#grey {
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+    display: inline-block;
+}
+
+div#orange {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    display: inline-block;
+}
